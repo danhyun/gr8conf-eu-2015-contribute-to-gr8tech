@@ -1,0 +1,44 @@
+== Want more?
+
+[.step]
+* Learn about https://asciidoctor.org[Asciidoctor]
+* http://www.groovy-lang.org/mailing-lists.html[Subscribe to Mailing Lists]
+* Browse https://issues.apache.org/jira/browse/GROOVY-7415?jql=project%3DGROOVY%20and%20labels%20%3D%20contrib%20AND%20resolution%3DUnresolved[issue tracker] for good first contribution tickets
+
+== Groovy and Asciidoctor
+
+[source,asciidoctor]
+.src/spec/doc/design-pattern-singleton.adoc
+----
+ We can use this singleton class in some script code as follows:
+
+ [source,groovy]
+ ----
+ include::{projectdir}/src/spec/test/DesignPatternsTest.groovy[tags=singleton_vote_collector_usage,indent=0]
+ ----
+----
+
+=== Corresponding Code
+
+[source,groovy]
+.src/spec/test/DesignPatternsTest.groovy
+----
+  // tag::singleton_vote_collector_usage[]
+  def collector = VoteCollector.instance
+  collector.display()
+  collector.votes++
+  collector = null
+  Thread.start{
+      def collector2 = VoteCollector.instance
+      collector2.display()
+      collector2.votes++
+      collector2 = null
+  }.join()
+  def collector3 = VoteCollector.instance
+  collector3.display()
+  // end::singleton_vote_collector_usage[]
+----
+
+=== Result
+
+image::asciidoctor-output.PNG[link="http://docs.groovy-lang.org/latest/html/documentation/#_design_patterns_in_groovy"]
