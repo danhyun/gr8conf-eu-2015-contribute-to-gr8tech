@@ -19,6 +19,21 @@ Discover typos by usage
 
 image::typos-count.PNG[]
 
+== The possibilities
+
+image::green-streak.PNG[]
+
+== Updated CV
+
+[quote,Your Name Here]
+____
+Expert Groovy OSS Documentation Contributor
+____
+
+== Become the next Groovy Knight
+
+image::groovy-knight.PNG[]
+
 == Live Documentation Contribution
 
 image::warning.gif[]
@@ -26,7 +41,8 @@ image::warning.gif[]
 == Preflight Checklist
 
 [.step]
-* Learn git
+* Learn and download git
+* https://github.com/join[Github Account]
 * `git clone git://github.com/apache/incubator-groovy.git`
 * Push finished code to your own fork
 * Create PR with relevant info
