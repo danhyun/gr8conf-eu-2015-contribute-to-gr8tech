@@ -3,6 +3,8 @@ Dan Hyun<https://github.com/danhyun[@danhyun]>
 
 View here http://danhyun.github.io/gr8conf-eu-2015-contribute-to-gr8tech
 
+https://raw.githubusercontent.com/danhyun/gr8conf-eu-2015-contribute-to-gr8tech/master/gr8conf-eu-2015-contribute-to-gr8tech.pdf[Slides in PDF form]
+
 == Local Build
 To build locally, run:
 
