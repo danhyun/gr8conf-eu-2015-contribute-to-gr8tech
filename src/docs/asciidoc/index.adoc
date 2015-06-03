@@ -31,20 +31,22 @@ include::contribute-groovy-correction.adoc[]
 
 include::additional-groovy-contributions.adoc[]
 
-== Contributing to Grails
+include::contribute-grails-correction.adoc[]
 
-Grails is also a Good OSS Project.
+== GR8 OSS
 
-https://grails.org/contribute.html[Grail's Contribution Guideline]
+There are a lot of +
+projects that use Groovy.
 
-== Grails's recommendations
+Feel free to explore and make +
+similar contributions.
 
-image::grails-contribute.PNG[link="https://grails.org/contribute.html"]
+== Contribute!
 
-== Finding an Issue
+Say hello with `#groovylang`
 
-image::grails-doc.PNG[link="https://twitter.com/craigburke1/status/598822447815720960"]
+Contribute some typos
 
-== Another contribution opportunity!
+Get involved on Stack Overflow
 
-image::feels-good.png[]
+== Questions?

@@ -1,0 +1,69 @@
+== Contributing to Grails
+
+Grails is also a Good OSS Project.
+
+https://grails.org/contribute.html[Grail's Contribution Guideline]
+
+== Grails's recommendations
+
+image::grails-contribute.PNG[link="https://grails.org/contribute.html"]
+
+== Grails also accepts typos
+
+image::grails-typos-too.PNG[]
+
+== Finding an Issue
+
+image::grails-doc.PNG[link="https://twitter.com/craigburke1/status/598822447815720960"]
+
+== Another contribution opportunity!
+
+image::feels-good.png[]
+
+== Some background
+
+image::to-indent-or-not-to-indent.PNG[]
+
+== To Indent or not to Indent?
+
+Regardless of preference +
+indentation should be consistent
+
+== Inconsistency
+
+Confusing for the uninitiated
+
+What is Spock or Geb?
+
+Do I need to indent for this to work?
+
+Why is it different?
+
+== Unit Test
+
+image::unit-test.PNG[]
+
+== Confusion
+
+New users may believe:
+ 
+Unit tests == no indents
+
+Functional tests == indentation
+
+== LIVE PR
+
+https://github.com/grails/grails-doc/blob/master/src/en/guide/testing/functionalTesting.gdoc[functionalTesting.gdoc]
+
+== Now we wait again
+
+image::clock.gif[]
+
+== Want to contribute more?
+
+Stack Overflow::
+ Participate on StackOverflow
+
+Code::
+ Subscribe to the https://grails.org/mailing-lists.html[mailing-list] +
+ and indicate that you would like to do so.
