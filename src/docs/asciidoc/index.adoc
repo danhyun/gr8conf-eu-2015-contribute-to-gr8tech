@@ -45,7 +45,7 @@ similar contributions.
 
 Say hello with `#groovylang`
 
-Contribute some typos
+Contribute some typo corrections
 
 Get involved on Stack Overflow
 
