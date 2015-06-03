@@ -15,7 +15,7 @@ and watching talks from https://www.youtube.com/playlist?list=PLwxhnQ2Qv3xuE4JEK
 
 Follow Guillaume's http://glaforge.appspot.com/[Groovy Weekly Update]
 
-Participation on twitter https://twitter.com/search?q=%23groovylang&src=typd&vertical=default&f=tweets[`#groovy-lang`]
+Participation on twitter https://twitter.com/search?q=%23groovylang&src=typd&vertical=default&f=tweets[`#groovylang`]
 
 == Groovy Exposure
 
