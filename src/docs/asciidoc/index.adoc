@@ -43,6 +43,8 @@ image::grails-contribute.PNG[link="https://grails.org/contribute.html"]
 
 == Finding an Issue
 
-https://twitter.com/craigburke1/status/598822447815720960
+image::grails-doc.PNG[link="https://twitter.com/craigburke1/status/598822447815720960"]
 
-image::grails-doc.PNG[]
+== Another contribution opportunity!
+
+image::feels-good.png[]

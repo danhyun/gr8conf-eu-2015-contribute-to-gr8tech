@@ -27,7 +27,7 @@ image::no-idea.jpg[]
 
 To
 
-image::i-know-some-of-these-words.PNG[]
+image::i-know-some-of-these-words.png[]
 
 == How to find ways to contribute?
 
